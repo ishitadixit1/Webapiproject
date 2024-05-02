@@ -1,3 +1,6 @@
+# Endpoints
+![Screenshot (13)](https://github.com/ishitadixit1/Webapiproject/assets/162412818/350aae12-4b7c-48a1-bcbb-3127feda8eb9)
+
 # Get Task
 ![Screenshot (12)](https://github.com/ishitadixit1/Webapiproject/assets/162412818/7b1f090d-51d3-4c59-8125-003c995d302e)
 
